@@ -1,0 +1,9 @@
+
+- To get changes made in master branch into admin_dashboard
+
+	git checkout admin_dashboard
+	git fetch origin
+	git merge master
+==============================================	
+	Git commit
+	Git Push
